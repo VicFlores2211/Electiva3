@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <array name="categorias">
+        <item>Seleccione una categoria</item>
+        <item>Carnes</item>
+        <item>Verduras</item>
+        <item>Cereales</item>
+        <item>Higiene personal</item>
+        <item>Frutas</item>
+        <item>Limpieza del hogar</item>
+        <item>Mariscos</item>
+        <item>Bebidas</item>
+        <item>Dulceria</item>
+        <item>Boquitas</item>
+        <item>Medicinas</item>
+        <item>Papeleria</item>
+        <item>Mascotas</item>
+    </array>
+</resources>
